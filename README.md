@@ -1,2 +1,2 @@
-# starter-vitepress-blog
-An empty Vite Press blog with the theme all set up.
+# Plastic blog repository
+# Built by vitepress, more documentation is coming!
