@@ -19,3 +19,8 @@ Since the introduction of ChatGPT, my mind has been preoccupied with exploring t
 I am thrilled to introduce PlasticDB, a groundbreaking initiative driven by our vision to democratize data accessibility using LLMs. Regardless of your technical proficiency, we aim to empower everyone with the ability to query SQL databases using natural language. This marks just the initial step in our ambitious journey to simplify search functionality across a wide range of use cases.
 
 From SQL databases to non-SQL databases, Excel files to Jira tickets, we recognize that the task of searching and retrieving information has never been straightforward. However, with the remarkable advancements in AI, we have the privilege of pioneering solutions that will revolutionize the search landscape. Our team is excited to embark on this transformative journey, paving the way for a future where search becomes effortless and accessible to all.
+
+## Get answers from your database using AI
+
+[Try PlasticDB for Free](https://plasticdb.com)
+
