@@ -1,6 +1,6 @@
 ---
-date: 2023-26-06
-title: 'The launch'
+date: 2023-06-26
+title: The launch
 author: Radi Barq
 category: Article
 tags: AI
@@ -23,4 +23,3 @@ From SQL databases to non-SQL databases, Excel files to Jira tickets, we recogni
 ## Get answers from your database using AI
 
 [Try PlasticDB for Free](https://plasticdb.com)
-
