@@ -5,7 +5,7 @@ export default defineConfig({
   title: 'PlasticDB Blog',
   description: 'PlasticDB blog website',
   themeConfig: {
-    logo: './assets/logo.png',
+    logo: '/header_logo.png',
     blog: {
       title: 'PlasticDB Blog',
       description: "Empowers your team with AI to get answers from the database even if they don't know SQL.",
