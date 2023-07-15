@@ -4,6 +4,9 @@ import { defineConfig } from '@jcamp/vitepress-blog-theme/config'
 export default defineConfig({
   title: 'PlasticDB Blog',
   description: 'PlasticDB blog website',
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }], // Update the href to match your favicon file name and extension
+  ],
   themeConfig: {
     logo: '/header_logo.png',
     blog: {
@@ -74,6 +77,6 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023-present PlasticDB'
-    }
+    },
   },
 })
