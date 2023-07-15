@@ -7,8 +7,8 @@ hero:
   text: 'Get answers from your database using
 AI'
   image:
-    src: ./.vitepress/public/robot_searching.png
-    alt: PlasticDB Logo
+    src: .vitepress/assets/robot_searching.png
+    alt: PlasticDB Main Logo
   actions:
     - theme: brand
       text: Blog posts
