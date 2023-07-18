@@ -15,5 +15,5 @@ AI'
       link: /blog/
     - theme: alt
       text: Try PlasticDB for free
-      link: https:/plasticdb.com
+      link: https:/www.plasticdb.com
 ---
