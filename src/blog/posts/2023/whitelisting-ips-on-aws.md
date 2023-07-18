@@ -39,7 +39,7 @@ Within the "Connectivity & security" section, click on the "Modify" button on th
 2. Locate the "Publicly accessible" field and set it to "Yes" to allow public access.
 Publicly accessible field
 
-![Change RDS to be publicly accessible](/images/whitelisting-ips-aws/2.png)
+![Change RDS to be publicly accessible](/images/whitelisting-ips-aws/3.png)
 
 3. Scroll down and click on the "Continue" button to proceed.
 4. Review the summary of changes, and if everything appears correct, click on the "Modify DB Instance" button to apply the changes.
